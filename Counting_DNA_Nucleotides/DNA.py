@@ -1,5 +1,5 @@
 """
-Author: djxel
+Author: Bulletic
 Date: 2025/11/02
 Rosalind problem ID: DNA
 """
